@@ -1,0 +1,30 @@
+.main {
+    width: 600px;
+    height: 550px;
+    margin: 0 auto; 
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin-top: 60px;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+body {
+    background-color: rgb(44, 42, 42);
+}
+
+p {
+    font-size: 18px;
+    margin-top: 20px;
+    line-height: 1.5;
+}
+
+span{
+    color:rgb(109, 172, 250);
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  
